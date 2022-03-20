@@ -2,6 +2,8 @@
 I've made the first Digital Cap powered by Artificial Intelligence!
 Video Demo: https://youtu.be/r6zAZnO0PwI 
 
+Cap HW resources: https://github.com/lonardonifabio/DigitalCap/blob/main/1622036401450.jpg
+
 - Raspberry PI4
 - Cam RPI
 - Led SSD1306
