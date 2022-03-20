@@ -6,6 +6,8 @@ Video Demo: https://youtu.be/r6zAZnO0PwI
 - Cam RPI
 - Led SSD1306
 - Cap 
+- Reflective plastic sheet: https://www.amazon.it/dp/B07W5XBLJ6/ref=cm_sw_r_em_api_glt_i_98ZY9JWY4M2R4DCXB78Y?_encoding=UTF8&psc=1 
+- plastic magnifying glass
 
 This is my prototype, follow me to see next steps and a real time test https://lnkd.in/eekSTzi
 
